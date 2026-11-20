@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="728 2140 640 550" width="640" height="550" fill="none"><defs><linearGradient id="paint13_linear_33_1223" x1="759.5" y1="2204" x2="1336.5" y2="2585" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0" />
+<stop offset="0.139423" stop-color="white" stop-opacity="0.495146" />
+<stop offset="0.495192" stop-color="white" />
+<stop offset="0.875" stop-color="white" stop-opacity="0.628571" />
+<stop offset="1" stop-color="white" stop-opacity="0" />
+</linearGradient>
+</defs><path d="M759 2204H1241C1293.74 2204 1336.5 2246.76 1336.5 2299.5C1336.5 2352.24 1293.74 2395 1241 2395H853.75C801.421 2395 759 2437.42 759 2489.75C759 2542.08 801.421 2584.5 853.75 2584.5H1208.5" stroke-width="2" stroke="url(#paint13_linear_33_1223)" />
+<circle cx="863.5" cy="2204" r="38" fill="white" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="855.672" y="2216.14">1</tspan></text>
+<circle cx="1207.5" cy="2394" r="38" fill="#A9BEFF" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="1196.95" y="2406.14">3</tspan></text>
+<circle cx="863.5" cy="2584" r="38" fill="white" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="853.688" y="2596.14">5</tspan></text>
+<circle cx="1207.5" cy="2204" r="38" fill="#A9BEFF" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="1197.92" y="2216.14">2</tspan></text>
+<circle cx="863.5" cy="2394" r="38" fill="white" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="852.656" y="2406.14">4</tspan></text>
+<circle cx="1207.5" cy="2584" r="38" fill="white" />
+<text fill="#164FF9" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="bold" letter-spacing="0em"><tspan x="1196.94" y="2596.14">6</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="786" y="2281.23">Потребность</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="814.438" y="2471.23">Покупка</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="789.059" y="2661.23">Применение</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="1171.26" y="2281.23">Поиск</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="1143.27" y="2471.23">Сравнение</tspan></text>
+<text fill="white" style="white-space: pre" xml:space="preserve" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="500" letter-spacing="0em"><tspan x="1100.23" y="2661.23">Повторный выбор</tspan></text>
+<path d="M1351.97 2283.49L1336.49 2298.97L1321 2283.49" stroke-width="2" stroke="#C0CFFD" />
+<path d="M774.971 2478.49L759.486 2493.97L744 2478.49" stroke-width="2" stroke="#DBE4FF" />
+</svg>
